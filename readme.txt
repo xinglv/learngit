@@ -5,3 +5,4 @@ Git tracks changes of files.
 Creating a new branch is quick AND simple.
 I'm Lydia.
 I'm learning GIT.
+dir: learngit-II
